@@ -1,16 +1,23 @@
-# animal_shelters
+# Animal Shelter App
+aplication that provide a list of animal that can be adopt by someone
 
-A new Flutter project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="images/splash_screen.png" width="200">
+  <img src="images/welcome_screen.png" width="200">
+  <img src="images/regis_screen.png" width="200">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="images/login_screen.png" width="210">
+  <img src="images/main_screen.png" width="210">
+  <img src="images/detail_screen.png" width="210">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+#### 1. Clone this Project to your Computer
+```bash
+git clone https://github.com/rafiechautie/TestSuitmedia.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
